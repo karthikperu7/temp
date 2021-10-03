@@ -1,1 +1,5 @@
-third change
+#!/bin/bash
+
+cd ~
+rm -f /tmp/*
+exit 0
